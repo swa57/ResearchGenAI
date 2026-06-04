@@ -110,6 +110,9 @@ streamlit run app.py
 * Cloud deployment support
 
 ---
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/GenAI-Gemini-orange)
+![AI](https://img.shields.io/badge/AI-Research-green)
 ## Live Demo
 
 🔗 https://lhp4acx4cjk2ja2hvfmwgf.streamlit.app/
