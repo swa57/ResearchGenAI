@@ -110,7 +110,9 @@ streamlit run app.py
 * Cloud deployment support
 
 ---
+## Live Demo
 
+🔗 https://lhp4acx4cjk2ja2hvfmwgf.streamlit.app/
 ## Author
 
 Swathi K
